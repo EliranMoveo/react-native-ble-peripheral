@@ -111,3 +111,4 @@ captures/
 .DS_STORE
 
 *.swp
+.history
